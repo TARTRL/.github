@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-If you want to join the TARTRL team, please send email to huangsy1314@163.com
+If you want to join the TARTRL team, please send email to huangshiyu@4paradigm.com
