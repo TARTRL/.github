@@ -1,3 +1,1 @@
-## Hi there 👋
-
-If you want to join the TARTRL team, please send email to huangshiyu@4paradigm.com
+We are looking for self-motivated interns and full-timers who have a strong background in mathematics/computer science and are eager to get involved in cutting-edge, fundamental AI research. If you want to join the TARTRL team, please send email to huangshiyu@4paradigm.com
