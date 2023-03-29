@@ -1,4 +1,4 @@
-## Hi there 👋
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTARTRL_Lab)](https://twitter.com/TARTRL_Lab)
 ![GitHub Org's stars](https://img.shields.io/github/stars/TARTRL?style=social)
